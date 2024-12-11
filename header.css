@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: 0px;
+}
+.navbar-container{
+    background-color: rgb(131, 245, 55);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger
+
+}
+td{
+    padding: 10px;
+}
+img{
+    width: 120px;
+    height: 70px;
+}
